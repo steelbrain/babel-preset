@@ -1,0 +1,23 @@
+{
+  "name": "babel-preset-steelbrain",
+  "version": "1.0.0",
+  "description": "My personal babel preset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steelbrain/babel-preset.git"
+  },
+  "keywords": [
+    "steelbrain",
+    "babel"
+  ],
+  "author": "steelbrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steelbrain/babel-preset/issues"
+  },
+  "homepage": "https://github.com/steelbrain/babel-preset#readme"
+}

@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-steelbrain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal babel preset",
   "dependencies": {
     "babel-plugin-transform-es2015-arrow-functions": "^6.4.0",

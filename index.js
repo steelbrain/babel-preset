@@ -12,6 +12,7 @@ module.exports = {
     require("babel-plugin-transform-es2015-spread"),
     require("babel-plugin-syntax-async-functions"),
     require("babel-plugin-syntax-async-generators"),
-    require("babel-plugin-transform-async-to-generator")
+    require("babel-plugin-transform-async-to-generator"),
+    require("babel-plugin-transform-flow-strip-types")
   ]
 }

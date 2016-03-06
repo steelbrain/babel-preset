@@ -7,9 +7,9 @@ plugins.pop()
 plugins.push(
   require("babel-plugin-syntax-async-functions"),
   require("babel-plugin-syntax-async-generators"),
-  require("babel-plugin-transform-async-to-generator"),
-  require("babel-plugin-transform-flow-strip-types")
+  require("babel-plugin-transform-async-to-generator")
 )
+plugins = plugins.concat(require('babel-preset-react').plugins)
 
 module.exports = {
   plugins: plugins

@@ -1,7 +1,15 @@
-## 3.0.0
+## 4.0.1
+
+- Use `babel-preset-es2015-sane` instead of `babel-preset-es2015` to remove dependency on regenerator runtime
+
+## 4.0.0
 
 - Add support for decorators
 - Depend on presets directly and include fix for `Missing class properties transform`
+
+## 3.0.0
+
+- Skipped because of a deployment error
 
 ## 2.0.1
 

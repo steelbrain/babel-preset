@@ -1,3 +1,7 @@
+## 4.0.2
+
+- Remove the flow pragma to remove an unnecessary flow warnings
+
 ## 4.0.1
 
 - Use `babel-preset-es2015-sane` instead of `babel-preset-es2015` to remove dependency on regenerator runtime

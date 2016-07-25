@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-steelbrain",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "My personal babel preset",
   "dependencies": {
     "babel-plugin-transform-decorators-legacy": "^1.3.4",

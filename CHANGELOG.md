@@ -1,3 +1,7 @@
+## 5.0.0
+
+- Move away from `babel-preset-es2015-sane` towards `babel-preset-env`, having same output except that it's maintained officially and points to latest version deps
+
 ## 4.0.2
 
 - Remove the flow pragma to remove an unnecessary flow warnings

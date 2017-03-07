@@ -1,11 +1,10 @@
 module.exports = function(context, givenOpts) {
   var opts = Object.assign({
-    exclude: [],
+    exclude: ['transform-regenerator'],
     targets: {
       node: 0,
     },
   }, givenOpts)
-  opts.exclude.push('transform-regenerator')
 
   return {
     presets: [

@@ -1,3 +1,7 @@
+## 5.0.2
+
+- Allow overriding exclusion of regenerator transform through configuration
+
 ## 5.0.1
 
 - Allow specifying excludes from preset configuration

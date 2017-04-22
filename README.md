@@ -1,6 +1,8 @@
 Babel-Preset
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/babel-preset.svg)](https://greenkeeper.io/)
+
 This is my babel preset that aims at the latest ES features (stage-0) while having React and decorator support as well.
 By default this preset blacklists only one transpiler, and that is the `regenerator` one, It does so that you don't have to include regenerator runtime
 in your frontend of node applications because Node has had generator support for quite some time.
